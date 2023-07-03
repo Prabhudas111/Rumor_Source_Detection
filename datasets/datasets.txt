@@ -1,0 +1,4 @@
+erdos renyi graph
+barabasi albert graph
+karate graph
+football csv
